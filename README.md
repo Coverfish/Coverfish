@@ -25,6 +25,6 @@ The way I work:
 - wire it to real hardware or real data  
 - debug obsessively until it behaves how I imagined  
 
-My brain currently won’t let me sleep without thinking about new features, weird edge cases, or imaginary bugs that don’t even exist yet. I’m still learning the “proper” theory behind a lot of what I use – but shipping useful things and automating boring work has me completely hooked.
+My brain currently won’t let me sleep without thinking about new features, weird edge cases, or imaginary bugs that don’t even exist yet. I’m still learning the “proper” theory behind a lot of what I use – but making useful things and automating boring work has me completely hooked.
 
 If it removes repetitive tasks from real-world environments (workshops, warehouses, factories) by gluing together electronics + software + AI, I’m probably interested.
