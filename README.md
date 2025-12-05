@@ -1,4 +1,4 @@
-### Hi, I'm [YourName] 👋
+### Hi, I'm Coverfish 👋
 
 I have absolutely no idea what I’m doing, but I’m having a ridiculous amount of fun doing it.
 
